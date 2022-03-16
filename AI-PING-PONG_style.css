@@ -1,0 +1,19 @@
+body
+{
+ background-size:cover;
+ background-position:center;
+ background-repeat:calc(cover);
+
+}
+
+.h1
+{
+    font-size:25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    float: inline-end;
+    border: 25px;
+    background-color: orange;
+    border-radius: 25px;
+    bottom:50px;
+}
